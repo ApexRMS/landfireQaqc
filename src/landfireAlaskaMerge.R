@@ -6,7 +6,7 @@
 # 1.  Make a backup of the BpSModels project in the master (e.g. BpSModels - Copy)
 # 2.  Set the working directory path, library name, and the final project/scenario
 #     names below.
-# 2.  Run this script.  If there are any problems then start again at step 1
+# 3.  Run this script.  If there are any problems then start again at step 1
 #
 # Required Packages: dplyr, rsyncrosim
 
